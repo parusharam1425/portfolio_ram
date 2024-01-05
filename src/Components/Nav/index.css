@@ -1,0 +1,31 @@
+
+  
+  .nav_links{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    flex-direction: row;
+    justify-content: center;
+    background-image: url("../Assects/image.png");
+    background-size: cover;
+    max-height: 40vh;
+    height: 50vh;
+    width: 100%;
+    max-width: 100vw;
+
+  }
+  
+  .heading{
+    color: #FDC435;
+  }
+
+  .heading-description{
+    font-family: playfair Display;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  a {
+    margin-left: 1rem;
+  }
+
+  
